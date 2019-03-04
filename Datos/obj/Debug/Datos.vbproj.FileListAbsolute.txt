@@ -1,0 +1,15 @@
+C:\Users\Edwin Almanzar\source\repos\App de Chequeo de Vehiculos\Datos\bin\Debug\Datos.dll.config
+C:\Users\Edwin Almanzar\source\repos\App de Chequeo de Vehiculos\Datos\bin\Debug\Datos.dll
+C:\Users\Edwin Almanzar\source\repos\App de Chequeo de Vehiculos\Datos\bin\Debug\Datos.pdb
+C:\Users\Edwin Almanzar\source\repos\App de Chequeo de Vehiculos\Datos\bin\Debug\Datos.xml
+C:\Users\Edwin Almanzar\source\repos\App de Chequeo de Vehiculos\Datos\bin\Debug\Entidades.dll
+C:\Users\Edwin Almanzar\source\repos\App de Chequeo de Vehiculos\Datos\bin\Debug\Entidades.pdb
+C:\Users\Edwin Almanzar\source\repos\App de Chequeo de Vehiculos\Datos\bin\Debug\Entidades.xml
+C:\Users\Edwin Almanzar\source\repos\App de Chequeo de Vehiculos\Datos\obj\Debug\Datos.vbprojAssemblyReference.cache
+C:\Users\Edwin Almanzar\source\repos\App de Chequeo de Vehiculos\Datos\obj\Debug\Datos.Resources.resources
+C:\Users\Edwin Almanzar\source\repos\App de Chequeo de Vehiculos\Datos\obj\Debug\Datos.vbproj.GenerateResource.cache
+C:\Users\Edwin Almanzar\source\repos\App de Chequeo de Vehiculos\Datos\obj\Debug\Datos.vbproj.CoreCompileInputs.cache
+C:\Users\Edwin Almanzar\source\repos\App de Chequeo de Vehiculos\Datos\obj\Debug\Datos.vbproj.CopyComplete
+C:\Users\Edwin Almanzar\source\repos\App de Chequeo de Vehiculos\Datos\obj\Debug\Datos.dll
+C:\Users\Edwin Almanzar\source\repos\App de Chequeo de Vehiculos\Datos\obj\Debug\Datos.xml
+C:\Users\Edwin Almanzar\source\repos\App de Chequeo de Vehiculos\Datos\obj\Debug\Datos.pdb
